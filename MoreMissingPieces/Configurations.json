@@ -1,0 +1,38 @@
+[
+    {
+        "Prefab": "piece_grausten_stonestair_corner",
+        "Config": {
+            "Name": "$piece_grausten_stonestair_corner",
+            "Description": "$piece_grausten_stonestair_corner_description",
+            "PieceTable": "Hammer",
+            "Category": "BuildingStonecutter",
+            "CraftingStation": "piece_stonecutter",
+            "AllowedInDungeons": false,
+            "Requirements": [
+                {
+                    "Item": "Grausten",
+                    "Amount": 6,
+                    "Recover": true
+                }
+            ]
+        }
+    },
+    {
+        "Prefab": "piece_grausten_wall_1x1",
+        "Config": {
+            "Name": "$piece_grausten_wall_1x1",
+            "Description": "$piece_grausten_wall_1x1_description",
+            "PieceTable": "Hammer",
+            "Category": "BuildingStonecutter",
+            "CraftingStation": "piece_stonecutter",
+            "AllowedInDungeons": false,
+            "Requirements": [
+                {
+                    "Item": "Grausten",
+                    "Amount": 2,
+                    "Recover": true
+                }
+            ]
+        }
+    }
+]
