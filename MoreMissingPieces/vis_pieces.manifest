@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 2938101647
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f71c34a2e2de0aac4a5f5fc6b13ff0a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3e44fb514b22f5380215d1fef362059c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f71c34a2e2de0aac4a5f5fc6b13ff0a1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1521249158, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 2094620348, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 1815218749, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 114
+  Script: {fileID: 895252998, guid: c1b78fa918b030faf1c1f6f6164daeb2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: assembly_valheim
+  ClassName: EffectList
+- AssemblyName: assembly_valheim
+  ClassName: EffectList/EffectData
+- AssemblyName: assembly_valheim
+  ClassName: HitData/DamageModifiers
+- AssemblyName: assembly_valheim
+  ClassName: Piece/Requirement
+- AssemblyName: assembly_valheim
+  ClassName: RandomMaterialValues/VectorVariationProperty
+Assets:
+- Assets/Mod/Prefabs/piece_grausten_wall_1x1.prefab
+- Assets/Mod/Prefabs/piece_grausten_wall_arch_1x1.prefab
+- Assets/Mod/Prefabs/piece_grausten_stonestair_corner.prefab
+Dependencies: []

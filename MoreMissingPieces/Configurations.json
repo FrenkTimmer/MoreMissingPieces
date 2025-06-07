@@ -18,6 +18,24 @@
         }
     },
     {
+        "Prefab": "piece_grausten_wall_arch_1x1",
+        "Config": {
+            "Name": "$piece_grausten_wall_arch_1x1",
+            "Description": "$piece_grausten_wall_arch_1x1_description",
+            "PieceTable": "Hammer",
+            "Category": "BuildingStonecutter",
+            "CraftingStation": "piece_stonecutter",
+            "AllowedInDungeons": false,
+            "Requirements": [
+                {
+                    "Item": "Grausten",
+                    "Amount": 1,
+                    "Recover": true
+                }
+            ]
+        }
+    },
+    {
         "Prefab": "piece_grausten_wall_1x1",
         "Config": {
             "Name": "$piece_grausten_wall_1x1",

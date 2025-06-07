@@ -14,13 +14,19 @@ MoreMissingPieces is a mod for Valheim that adds additional "missing" building p
 ### Grausten Stair Corner
 
 <p align="left">
-<img alt="Ideas" width="800" src="https://github.com/FrenkTimmer/MoreMissingPieces/blob/main/Images/piece_grausten_stonestair_corner.png?raw=true" />
+<img alt="Grausten Stair Corner" width="800" src="https://github.com/FrenkTimmer/MoreMissingPieces/blob/main/Images/piece_grausten_stonestair_corner.png?raw=true" />
 </p>
 
 ### Grausten Wall 1x1
 
 <p align="left">
-<img alt="Ideas" width="800" src="https://github.com/FrenkTimmer/MoreMissingPieces/blob/main/Images/piece_grausten_wall_1x1.png?raw=true" />
+<img alt="Grausten Wall 1x1" width="800" src="https://github.com/FrenkTimmer/MoreMissingPieces/blob/main/Images/piece_grausten_wall_1x1.png?raw=true" />
+</p>
+
+### Grausten Wall Arch 1x1
+
+<p align="left">
+<img alt="Grausten Wall Arch 1x1" width="800" src="https://github.com/FrenkTimmer/MoreMissingPieces/blob/main/Images/piece_grausten_wall_arch_1x1.png?raw=true" />
 </p>
 
 ## Installation

@@ -18,7 +18,7 @@ namespace MoreMissingPieces
 	{
 		public const string ModGuid = "org.bepinex.plugins.MoreMissingPieces";
 		public const string ModName = "MoreMissingPieces";
-		public const string ModVersion = "1.0.0";
+		public const string ModVersion = "1.1.0";
 
 		public static CustomLocalization CustomLoc => LocalizationManager.Instance.GetLocalization();
 
